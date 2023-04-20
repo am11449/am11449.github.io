@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.159ec3c9.css",
+    "main.js": "/react-gh-pages/static/js/main.6670d236.js",
+    "static/js/415.4d6acbeb.chunk.js": "/react-gh-pages/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/react-gh-pages/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/react-gh-pages/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/react-gh-pages/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/react-gh-pages/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/react-gh-pages/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/react-gh-pages/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/react-gh-pages/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Atul_Manjunath_Bharadwaj.pdf": "/react-gh-pages/static/media/Atul_Manjunath_Bharadwaj.659c3284f85cf026615a.pdf",
+    "static/media/chatify.png": "/react-gh-pages/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/peep.svg": "/react-gh-pages/static/media/peep.892231f4d91f2e957639f1cad1a94833.svg",
+    "static/media/home-bg.jpg": "/react-gh-pages/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.7da58c7a22025a86bb6c.png",
+    "static/media/pre.svg": "/react-gh-pages/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.159ec3c9.css.map": "/react-gh-pages/static/css/main.159ec3c9.css.map",
+    "main.6670d236.js.map": "/react-gh-pages/static/js/main.6670d236.js.map",
+    "415.4d6acbeb.chunk.js.map": "/react-gh-pages/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.159ec3c9.css",
+    "static/js/main.6670d236.js"
+  ]
+}
