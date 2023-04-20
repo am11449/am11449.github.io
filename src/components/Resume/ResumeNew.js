@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://ab047.github.io/AtulB.pdf";
+  "https://github.com/am11449/am11449.github.io/blob/d0e81aa1cd676eff6c3ff49f1dd02f3b2a5cdcfa/src/Assets/Atul_Manjunath_Bharadwaj.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
